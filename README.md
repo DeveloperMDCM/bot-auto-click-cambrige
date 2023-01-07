@@ -1,0 +1,1 @@
+# bot-auto-click-cambrige
